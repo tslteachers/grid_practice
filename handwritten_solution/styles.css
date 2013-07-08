@@ -1,0 +1,44 @@
+/* Make the invisible visible */
+
+* {
+  border: thin red solid;
+}
+
+.row {
+  clear: both;
+}
+
+.button {
+  background-color: blue;
+  color: white;
+  text-decoration: none;
+  height: 30px;
+  width: 150px;
+  display: inline-block;
+  text-align: center;
+  border-radius: 20px;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.splash {
+  height: 200px;
+  background-color: lightgray;
+}
+
+.one-third {
+  float: left;
+  width: 33%;
+}
+
+.two-third {
+  float: left;
+  width: 66%;
+}
+
+.one-fourth {
+  float: left;
+  width: 25%;
+}
